@@ -1,0 +1,5 @@
+id,sampleName,sampleType,batchID
+1,AP.Sms.1400,Sms:-1,"AP"
+2,AP.Sms.1400.11.08,Sms:-1,"AP 11-08"
+3,AP.Sms.Sh2,Sms:-1,"AP"
+4,AP.Sms.Sh2.Set2,Sms:-1,"AP Set2"

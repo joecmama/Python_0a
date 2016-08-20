@@ -1,0 +1,2 @@
+myimg.so: myimg.c
+	gcc -o $@ -fPIC -O3 -shared $^
